@@ -1,0 +1,18 @@
+{
+  "name": "watch-sniper",
+  "version": "0.0.1",
+  "description": "1) Monitor watches based on keywords. 2) Snipe 'em 3) ??? 4) Profit!",
+  "main": "index.js",
+  "repository": {
+    "url": "git remote add origin https://github.com/arjunblj/watch-sniper.git",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines" : {
+    "node" : "7.6.0"
+  },
+  "author": "Arjun Balaji",
+  "license": "MIT"
+}
