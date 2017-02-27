@@ -70,4 +70,4 @@ const postToSlack = (listing, color) => {
   slackBot.postMessage(config.slackBot.channel, null, params)
 }
 
-getWatchResults()
+setInterval(() => getWatchResults(), config.interval)
