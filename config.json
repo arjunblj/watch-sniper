@@ -1,0 +1,15 @@
+{
+  "interval": 60000,
+  "slackBot": {
+    "active": false,
+    "token": "",
+    "channel": "watches",
+    "settings": {
+      "username": "watch-sniper",
+      "icon_url": "https://pbs.twimg.com/profile_images/2257524782/watchrecon.png"
+    }
+  },
+  "keywords": [
+    "omega vintage"
+  ]
+}

@@ -10,9 +10,12 @@
   "scripts": {
     "start": "node index.js"
   },
-  "engines" : {
-    "node" : "7.6.0"
+  "engines": {
+    "node": "7.6.0"
   },
   "author": "Arjun Balaji",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
 }
