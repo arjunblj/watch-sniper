@@ -1,7 +1,7 @@
 {
   "interval": 60000,
   "slackBot": {
-    "active": false,
+    "active": true,
     "token": "",
     "channel": "watches",
     "settings": {
@@ -9,6 +9,7 @@
       "icon_url": "https://pbs.twimg.com/profile_images/2257524782/watchrecon.png"
     }
   },
+  "noImgUrl": "http://www.emoji.co.uk/files/twitter-emojis/objects-twitter/10955-watch.png",
   "keywords": [
     "omega vintage"
   ]
