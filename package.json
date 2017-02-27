@@ -13,6 +13,11 @@
   "engines": {
     "node": "7.6.0"
   },
+  "now": {
+    "files": [
+      "config.json"
+    ]
+  },
   "author": "Arjun Balaji",
   "license": "MIT",
   "dependencies": {
